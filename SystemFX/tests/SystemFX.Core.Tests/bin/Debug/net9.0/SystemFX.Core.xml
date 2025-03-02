@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>SystemFX.Core</name></assembly>
+<members>
+<member name="T:SystemFX.Core.Stream`1">
+<summary>
+ Rappresenta uno stream di dati tipizzati
+</summary>
+</member>
+<member name="M:SystemFX.Core.Stream.collect``1(SystemFX.Core.Stream{``0})">
+<summary>
+ Raccoglie gli elementi dello stream in una collezione
+</summary>
+</member>
+<member name="M:SystemFX.Core.Stream.iter``1(Microsoft.FSharp.Core.FSharpFunc{``0,Microsoft.FSharp.Core.Unit},SystemFX.Core.Stream{``0})">
+<summary>
+ Esegue una funzione per ogni elemento dello stream
+</summary>
+</member>
+<member name="M:SystemFX.Core.Stream.filter``1(Microsoft.FSharp.Core.FSharpFunc{``0,System.Boolean},SystemFX.Core.Stream{``0})">
+<summary>
+ Filtra gli elementi dello stream secondo il predicato
+</summary>
+</member>
+<member name="M:SystemFX.Core.Stream.map``2(Microsoft.FSharp.Core.FSharpFunc{``0,``1},SystemFX.Core.Stream{``0})">
+<summary>
+ Trasforma ogni elemento dello stream usando la funzione specificata
+</summary>
+</member>
+<member name="M:SystemFX.Core.Stream.ofSeq``1(System.Collections.Generic.IEnumerable{``0})">
+<summary>
+ Crea un nuovo stream da una sequenza di valori
+</summary>
+</member>
+<member name="T:SystemFX.Core.Stream">
+<summary>
+ Definisce i core operators per lo stream processing
+</summary>
+</member>
+</members>
+</doc>

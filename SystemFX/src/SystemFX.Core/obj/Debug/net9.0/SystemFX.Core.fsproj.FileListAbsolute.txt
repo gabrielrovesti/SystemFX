@@ -1,0 +1,13 @@
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\bin\Debug\net9.0\SystemFX.Core.deps.json
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\bin\Debug\net9.0\SystemFX.Core.dll
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\bin\Debug\net9.0\SystemFX.Core.pdb
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\bin\Debug\net9.0\SystemFX.Core.xml
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.fsproj.AssemblyReference.cache
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.AssemblyInfoInputs.cache
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.AssemblyInfo.fs
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.fsproj.CoreCompileInputs.cache
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.dll
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\refint\SystemFX.Core.dll
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.xml
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\SystemFX.Core.pdb
+C:\Users\roves\OneDrive\Documenti\GitHub\SystemFX\SystemFX\src\SystemFX.Core\obj\Debug\net9.0\ref\SystemFX.Core.dll
